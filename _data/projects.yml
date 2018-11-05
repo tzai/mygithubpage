@@ -4,5 +4,5 @@
   
 - title: RF-19 FSAE Inline Analog to CAN Sensor Modules
   url:	https://github.com/tzai/rf-19-can-module
-  desc: Miniature ARM-based data acquisition modules that collect and send sensor data back to the ECU of the car. The focus of this project is: reliability, small form factor, and modulatity.
+  desc: Miniature ARM-based data acquisition modules that collect and send sensor data back to the ECU of the car. The focus of this project is reliability, small form factor, and modulatity.
   
