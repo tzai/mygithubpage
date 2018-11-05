@@ -1,0 +1,8 @@
+- title: RF-15 FSAE Interactive Wheel
+  url:	http://talzaitsev.com/rf-15-wheel
+  desc: Interactive steering wheel module, based on Freescale's KEA128 processor, that allows the driver to interface with the car in real-time.
+  
+- title: RF-19 FSAE Inline Analog to CAN Sensor Modules
+  url:	https://github.com/tzai/rf-19-can-module
+  desc: Miniature ARM-based data acquisition modules that collect and send sensor data back to the ECU of the car. The focus of this project is reliability, small form factor, and modulatity.
+  
