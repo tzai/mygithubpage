@@ -283,6 +283,10 @@ footer {
   }
 }
 
+#avatar {
+  border-radius: 50%;
+}
+
 @media print, screen and (max-width: 720px) {
   body {
     word-wrap:break-word;
