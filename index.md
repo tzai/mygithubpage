@@ -14,4 +14,4 @@ Experience with many ARM-based microcontrollers from vendors such as TI, Microch
 
 If you are looking to connect with a flexible, open-minded and results-driven individual, get in touch with me!
 
-## Past Projects
+## Past Projects (that are on GitHub)
